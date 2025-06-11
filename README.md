@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Arihara Suthan P!
 
-<!--
-**Ariharasuthanp/Ariharasuthanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building smart solutions through code and constantly exploring new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on: Real-time Helmet Detection & Automatic License Plate Recognition using YOLOv8
+- 🌱 I’m currently learning: Advanced Python, Deep Learning, and Full-Stack Web Development
+- 👯 I’m looking to collaborate on: AI-based safety systems, open-source projects, and computer vision applications
+- 🤝 I’m looking for help with: Optimizing ML model performance and deployment
+- 💬 Ask me about: Python, OpenCV, YOLO, HTML/CSS, SQL, and Java
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+- ⚡ Fun fact: I love breaking down complex problems into simple, efficient solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔗 **Checkout some of my work below or connect with me — always happy to collaborate and learn together!**
